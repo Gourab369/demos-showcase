@@ -1,0 +1,9 @@
+[
+    {
+        "id": "as-shooter",
+        "title": "Asteroid Shooter",
+        "path": "/games/asteroidShooter/",
+        "thumbnail": "/assets/thumbnails/asteroidShooter.png",
+        "description": "an Asteroid shooter game"
+    }
+]
